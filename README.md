@@ -4,6 +4,7 @@ This repostory contains two programming assignments from my information security
 
 ## Homework "3"
 Test several encryption algorithms and hash methods between two people--Alice and Bob.
+Note: Do not use the Crypto library, use something else instead.
 
 ## Homework "5"
 Brute-force password guesser.
